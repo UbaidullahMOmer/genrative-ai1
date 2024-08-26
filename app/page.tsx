@@ -12,13 +12,15 @@ export default function Home() {
         <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
           <blockquote>
             <p className="text-lg font-medium">
-              “I am young and passionate about creating innovative projects. My experience includes a variety of projects that address unique challenges. It is my USP to work on many projects and complete them within a short period.”
+              “Tailwind CSS is the only framework that I've seen scale
+        on large teams. It’s easy to customize, adapts to any design,
+        and the build size is tiny.”
             </p>
           </blockquote>
           <figcaption className="font-medium">
-            <div className="text-sky-500 dark:text-sky-400">Ubaidullah Omer</div>
+            <div className="text-sky-500 dark:text-sky-400">Sarah Dayan</div>
             <div className="text-slate-700 dark:text-slate-500">
-              Website Developer, Danmark
+            Staff Engineer, Algolia
             </div>
           </figcaption>
         </div>
