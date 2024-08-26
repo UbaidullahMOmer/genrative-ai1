@@ -16,6 +16,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link
+          rel="icon"
+          href="https://lh3.googleusercontent.com/a/ACg8ocLPx0pEzYBIxki07T1kZA7BIIAD7kFcmOSvQH2pzyqA4H-0qg3p=s44-c-no"
+          type="image/jpeg"
+        />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   );

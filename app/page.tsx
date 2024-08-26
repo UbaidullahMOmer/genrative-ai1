@@ -4,7 +4,7 @@ export default function Home() {
       <figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 ">
         <img
           className="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto object-cover"
-          src="./Ubaidullah.jpeg"
+          src="https://lh3.googleusercontent.com/a/ACg8ocLPx0pEzYBIxki07T1kZA7BIIAD7kFcmOSvQH2pzyqA4H-0qg3p=s288-c-no"
           alt=""
           width="384"
           height="512"
