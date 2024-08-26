@@ -19,7 +19,7 @@ export default function RootLayout({
       <head>
         <link
           rel="icon"
-          href="https://lh3.googleusercontent.com/a/ACg8ocLPx0pEzYBIxki07T1kZA7BIIAD7kFcmOSvQH2pzyqA4H-0qg3p=s44-c-no"
+          href="https://lh3.googleusercontent.com/a/ACg8ocLPx0pEzYBIxki07T1kZA7BIIAD7kFcmOSvQH2pzyqA4H-0qg3p=s88-c-no"
           type="image/jpeg"
         />
       </head>
