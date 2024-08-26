@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className=" h-screen flex items-center justify-center mx-[40px]">
+    <div className="h-screen flex items-center justify-center mx-[40px]">
       <figure className="md:flex bg-slate-100 rounded-xl p-8 md:p-0 ">
         <Image
           className="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto object-cover"
@@ -14,8 +14,8 @@ export default function Home() {
         <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
           <blockquote>
             <p className="text-lg font-medium">
-              “Tailwind CSS is the only framework that I've seen scale on large
-              teams. It’s easy to customize, adapts to any design, and the build
+              “Tailwind CSS is the only framework that I&#39;ve seen scale on large
+              teams. It&#39;s easy to customize, adapts to any design, and the build
               size is tiny.”
             </p>
           </blockquote>
